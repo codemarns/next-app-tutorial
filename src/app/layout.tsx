@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <main className="w-screen h-screen overflow-hidden">
-          <div className="w-full min-h-full p-10 space-y-12 overflow-x-hidden overflow-y-auto">
+          <div className="w-full max-w-[1440px] mx-auto min-h-full p-10 space-y-12 overflow-x-hidden overflow-y-auto">
             <div className="flex-1 flex items-center justify-between">
               <h1 className="text-2xl font-bold">My Next JS Application!</h1>
               <Links />

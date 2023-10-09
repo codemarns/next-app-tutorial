@@ -61,6 +61,19 @@ const Links = () => {
           Followers
         </Link>
       </li>
+      <li>
+        <Link
+          href={"/users"}
+          className={cn(
+            styles.list.link.base,
+            pathname === "/users"
+              ? styles.list.link.active
+              : styles.list.link.inactive
+          )}
+        >
+          Users
+        </Link>
+      </li>
     </ul>
   );
 };

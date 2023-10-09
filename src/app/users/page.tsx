@@ -1,4 +1,4 @@
-import Button from "../components/FollowerButton";
+import Button from "../components/UserButton";
 import { UserProps } from "../components/User";
 
 async function getProducts() {
@@ -14,7 +14,7 @@ export default async function Page() {
   return (
     <div className="flex-1 h-auto space-y-4">
       <div className="flex-1 flex items-center justify-center">
-        <h1 className="text-4xl font-bold">Followers</h1>
+        <h1 className="text-4xl font-bold">Users</h1>
       </div>
       <a
         className="opacity-50 text-sky-600 hover:text-sky-800 transition-all text-center w-full block underline underline-offset-2"
