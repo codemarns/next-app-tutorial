@@ -50,15 +50,15 @@ const Links = () => {
       </li>
       <li>
         <Link
-          href={"/blog"}
+          href={"/followers"}
           className={cn(
             styles.list.link.base,
-            pathname === "/blog"
+            pathname === "/followers"
               ? styles.list.link.active
               : styles.list.link.inactive
           )}
         >
-          Blog
+          Followers
         </Link>
       </li>
     </ul>
