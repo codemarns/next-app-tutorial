@@ -21,7 +21,10 @@ export default function RootLayout({
         <main className="w-screen h-screen overflow-hidden">
           <div className="w-full max-w-[1440px] mx-auto min-h-full p-10 space-y-12 overflow-x-hidden overflow-y-auto">
             <div className="flex-1 flex items-center justify-between">
-              <h1 className="text-2xl font-bold">My Next JS Application!</h1>
+              <h1 className="text-2xl font-bold">
+                <span className="leading-none text-emerald-500">code</span>
+                <span className="leading-none text-slate-700">marns</span>
+              </h1>
               <Links />
             </div>
             {children}
