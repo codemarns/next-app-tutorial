@@ -11,7 +11,7 @@ const Button: React.FC<ButtonProps> = ({ id, children }) => {
   const router = useRouter();
 
   const handleClickFollower = () => {
-    router.push(`/users/${id}`);
+    router.push(`/following/${id}`);
   };
 
   return (
