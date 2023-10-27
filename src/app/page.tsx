@@ -19,7 +19,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -27,7 +27,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -35,7 +35,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -43,7 +43,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -51,7 +51,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -59,7 +59,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -67,7 +67,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -75,7 +75,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -83,7 +83,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -91,7 +91,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -99,7 +99,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -107,7 +107,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -115,7 +115,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -123,7 +123,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -131,7 +131,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -139,7 +139,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -147,7 +147,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -155,7 +155,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -163,7 +163,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -171,7 +171,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -179,7 +179,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -187,7 +187,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -195,7 +195,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -203,7 +203,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -211,7 +211,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -219,7 +219,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -227,7 +227,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -235,7 +235,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -243,7 +243,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -251,7 +251,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -259,7 +259,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -267,7 +267,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -275,7 +275,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -283,7 +283,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -291,7 +291,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -299,7 +299,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -307,7 +307,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -315,7 +315,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -323,7 +323,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -331,7 +331,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -339,7 +339,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -347,7 +347,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -355,7 +355,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -363,7 +363,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -371,7 +371,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -379,7 +379,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -387,7 +387,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -395,7 +395,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -403,7 +403,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -411,7 +411,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -419,7 +419,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -427,7 +427,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -435,7 +435,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -443,7 +443,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -451,7 +451,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -459,7 +459,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -467,7 +467,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -475,7 +475,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -483,7 +483,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -491,7 +491,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
@@ -499,7 +499,7 @@ export default function Home() {
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <div>
