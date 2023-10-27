@@ -18,9 +18,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <main className="w-screen h-screen overflow-hidden">
-          <div className="w-full max-w-[1440px] mx-auto min-h-full p-10 space-y-12 overflow-x-hidden overflow-y-auto">
-            <div className="flex-1 flex items-center justify-between">
+        <main className="w-screen h-screen overflow-x-hidden overflow-y-auto">
+          <div className="w-full max-w-[1440px] mx-auto min-h-full p-10 space-y-12">
+            <div className="sticky top-0 flex-1 flex items-center justify-between">
               <h1 className="text-2xl font-bold">
                 <span className="leading-none text-emerald-500">code</span>
                 <span className="leading-none text-slate-700">marns</span>
