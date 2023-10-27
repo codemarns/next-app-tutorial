@@ -4,14 +4,14 @@ export default function Home() {
   return (
     <div className="flex-1 h-auto space-y-4">
       <div className="flex-1 flex items-center justify-center">
-        <h1 className="text-4xl font-bold">Home</h1>
+        <h1 className="text-4xl font-bold">Homes</h1>
       </div>
       <Image
         priority
         width={1000}
         height={100}
         alt="hero-image"
-        src="/modern-studio-apartment-design-with-bedroom-living-space.jpg"
+        src="modern-studio-apartment-design-with-bedroom-living-space.jpg"
         className="h-[552px] w-full flex-1 object-cover"
       />
       <Image
